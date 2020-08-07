@@ -3,9 +3,8 @@ In this repository we are connecting react application to a python api build by 
 how to make this work?<br/>
 Step1 : Install flask and other dependencies.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp; It is better to use anaconda.Otherwise pip is fine.Install flask and flask_cors<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; Create a folder for python code and place ImageAPI.py init.
-&nbsp;&nbsp;&nbsp;&nbsp; Then type on <b>python Image.py</b> command prompt(Make sure that you are that directory where ImageAPI.py exists).<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; Now the API starts running on http://0.0.0.0:5000/ <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; Create a folder for python code and place ImageAPI.py init.Then type on <b>python Image.py</b> command prompt(Make sure that you<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; are that directory where ImageAPI.py exists). Now the API starts running on http://0.0.0.0:5000/ <br/>
 Step2 : Install node and React:<br/>
 Step3 : Create a react project by the fallowing command<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<b>npx create-react-app my-app</b><br/>
